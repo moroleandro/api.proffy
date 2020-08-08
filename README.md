@@ -45,8 +45,8 @@ Simple API, for a platform for teachers to announce their classes. Webserver wit
   ## Apply migrations
   $ npm run knex:migrate
 
-  ## Build of deploy
-  $ npm run build && npm run start
+  ## Build typescript of javascript from /dist
+  $ npm run build
 
   ## Remove all migrations
   $ npm run knex:down
