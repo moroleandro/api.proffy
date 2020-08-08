@@ -37,7 +37,7 @@ Simple API, for a platform for teachers to announce their classes. Webserver wit
 
 ```sh
   # Insert environment variables
-  $ vim .env 
+  $ vim .env copy
 
   ## Run the api
   $ npm run dev
